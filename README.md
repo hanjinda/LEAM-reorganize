@@ -30,7 +30,7 @@ Update:
    * `python connectLEAMsite.py <username> <password>
 
 
-:smile: This is so cool!
+:smile: This is NOT cool!
 --------------------
 
 
